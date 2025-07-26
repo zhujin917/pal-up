@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+psycopg2-binary
+pydantic
+pillow
+anyio
+openai
+python-multipart
