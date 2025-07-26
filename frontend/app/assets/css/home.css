@@ -1,0 +1,8 @@
+.homeRoot {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-image: linear-gradient(180deg, transparent, #f0f0f0), url("~/assets/img/background.webp");
+    background-size: 100% 25%;
+    background-repeat: no-repeat;
+}
